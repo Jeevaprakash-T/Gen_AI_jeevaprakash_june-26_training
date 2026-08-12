@@ -1,0 +1,13 @@
+title,skills,description
+Data Analyst,"Python, SQL, Excel, Tableau, pandas","We are looking for a Data Analyst to interpret data and turn it into information. Requires proficiency in SQL, Python (pandas), and dashboarding tools like Tableau or Power BI. Responsibilities include building reports, cleaning datasets, and presenting insights to stakeholders."
+Data Scientist,"Python, Machine Learning, Statistics, SQL, scikit-learn","Seeking a Data Scientist to build predictive models and run experiments. Strong background in statistics, Python, scikit-learn, and SQL required. You'll partner with product teams to translate business problems into ML solutions."
+Backend Developer,"Python, Django, REST APIs, PostgreSQL, Docker","Backend Developer needed to design and maintain REST APIs using Django/FastAPI, PostgreSQL, and Docker. Experience with cloud deployment (AWS/GCP) is a plus."
+Frontend Developer,"JavaScript, React, CSS, HTML, TypeScript","Frontend Developer role building responsive UIs with React and TypeScript. Should be comfortable with component design, state management, and cross-browser testing."
+Machine Learning Engineer,"Python, PyTorch, MLOps, Docker, Kubernetes","ML Engineer to productionize models, build training pipelines, and manage MLOps infrastructure using Docker and Kubernetes. PyTorch experience required."
+Business Analyst,"Excel, SQL, PowerPoint, Stakeholder Management","Business Analyst to gather requirements, analyze processes, and present recommendations to leadership. Strong Excel/SQL and communication skills required."
+DevOps Engineer,"AWS, Terraform, CI/CD, Docker, Linux","DevOps Engineer to manage cloud infrastructure on AWS, build CI/CD pipelines, and maintain Terraform-based IaC."
+Product Manager,"Roadmapping, Agile, Stakeholder Management, Analytics","Product Manager to own the roadmap for a B2B SaaS product, working closely with engineering and design in an Agile environment."
+QA Engineer,"Selenium, Python, Test Automation, Jira","QA Engineer to design and run automated test suites using Selenium and Python, and track defects in Jira."
+Data Engineer,"Python, SQL, Spark, Airflow, ETL","Data Engineer to build and maintain ETL pipelines using Spark and Airflow, ensuring data quality across the warehouse."
+UX Designer,"Figma, User Research, Wireframing, Prototyping","UX Designer to conduct user research and produce wireframes/prototypes in Figma for a consumer mobile app."
+Cloud Architect,"AWS, Azure, System Design, Security","Cloud Architect to design scalable, secure multi-cloud infrastructure and lead migration projects."
